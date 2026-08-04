@@ -1,0 +1,1 @@
+SELECT * FROM nhs_ae_performance.nhs_ae_performance;
